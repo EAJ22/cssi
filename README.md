@@ -1,3 +1,3 @@
 open
 
-New New Information
+New New Information.
